@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey, I'm Carlos Eduardo Mascarenhas!👋
+[![carlos-eduard0](https://img.shields.io/github/followers/carlos-eduard0?label=Follow&style=social)](https://github.com/carlos-eduard0)   
+[![carlos-eduard0](https://img.shields.io/badge/Working-bitis.com.br-blue)](https://bitis.com.br)   
+#### Basics Infos 
+<a href="https://github.com/carlos-eduard0">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=carlos-eduard0&show_icons=true" alt="carlos-eduard0" />
+</a>
 
-<!--
-**carlos-eduard0/carlos-eduard0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: Web Developer   
+:house: Dourados-MS    
+:rocket: Startups :heart:  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Interests 
+JavaScript | PHP | NodeJs | ReactJS | Firebase | PostgreSQL | React Native 
