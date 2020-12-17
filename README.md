@@ -1,15 +1,29 @@
-### Olá, sou Carlos Eduardo Mascarenhas!👋
-[![carlos-eduard0](https://img.shields.io/github/followers/carlos-eduard0?label=Follow&style=social)](https://github.com/carlos-eduard0)   
-[![carlos-eduard0](https://img.shields.io/badge/Working-bitis.com.br-blue)](https://bitis.com.br)   
-#### Basics Infos 
-<a href="https://github.com/carlos-eduard0">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=carlos-eduard0&show_icons=true" alt="carlos-eduard0" />
-</a>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-:computer: Web Developer   
-:house: Dourados-MS    
-:rocket: Startups :heart:  
+<p align="left"> 
+  Hello my name is Iuri, I am <strong>Front-end Developer</strong> and <strong>UI Designer</strong>.<br>
+  I am studying System and System Development for Internet.
+</p>
 
+<p align="left">
+  🦄 Skills: <strong>HTML5, CSS3, JavaScript, Sass, Bootstrap, Materialize and UI Design.</strong>
+</p>
 
-#### Interests 
-JavaScript | PHP | NodeJs | ReactJS | Firebase | PostgreSQL | React Native 
+<p align="left">
+  💼 Tools: <strong>Visual Studio Code, Scout App, PhotoShop, Figma, Netlify, Git and GitHub.</strong>
+</p>
+
+<p align="left">
+  💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
+</p>
+
+<p align="left">
+  <a href="https://www.instagram.com/iuricode/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
+  
+  <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
+
+  <a href="https://www.facebook.com/iuricode/" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/iuricode/"/></a>
+</p>  
